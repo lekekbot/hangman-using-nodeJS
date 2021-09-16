@@ -1,0 +1,58 @@
+{
+  "sports": [
+    { "Word": "Badminton", "Mean": "It is a racquet sport played using racquets to hit a shuttlecock across a net." },
+    { "Word": "Basketball", "Mean": "It a team sport in which two teams, most commonly of five players each, opposing one another on a rectangular court, compete with the primary objective of shooting a ball through the defender's hoop" },
+    { "Word": "Cycling", "Mean": "The use of bicycles for transport, recreation, exercise or sport" },
+    { "Word": "Archery", "Mean": "It is the art, sport, practice, or skill of using a bow to shoot arrows" },
+    { "Word": "Swimming", "Mean": "It is an individual or team racing sport that requires the use of one's entire body to move through water" },
+    { "Word": "Baseball", "Mean": "It is a bat-and-ball game played between two opposing teams who take turns batting and fielding" },
+    { "Word": "Hockey", "Mean": "It is a sport in which two teams play against each other by trying to manoeuvre a ball or a puck into the opponent's goal using a unique stick." },
+    { "Word": "Fencing", "Mean": "It is a combat style sport where winning points are made through the weapon's contact with an opponent." },
+    { "Word": "Canoeing", "Mean": "It is an activity which involves paddling a a special boat with a single-bladed paddle." },
+    { "Word": "Tennis", "Mean": "It is a racket sport that can be played individually against a single opponent or between two teams of two players each, a player hits a ball across a net." },
+    { "Word":"Volleyball", "Mean":"It is a team sport in which two teams of six players are separated by a net. Each team tries to score points by grounding a ball on the other team's court under organized rules."},
+    { "Word":"gymnastics", "Mean":"It is a sport that includes physical exercises requiring balance, strength, flexibility, agility, coordination, and endurance. "}
+  ],
+  "pubhol": [
+    { "Word": "Chinese New Year", "Mean": "A festival that celebrates the beginning of a new year."},
+    { "Word": "Labour Day", "Mean": "This holiday is dedicated to social and economic achievements of workers."},
+    { "Word": "Vesak Day", "Mean": "A festival most important to Bhuddists." },
+    { "Word": "Hari Raya", "Mean": "A holiday which marks the end of Ramadan(fasting)"},
+    { "Word": "National Day", "Mean": "To celebrate a nation's birthday" },
+    { "Word": "Deepavali", "Mean": "A festival where hindus celebrates the beginning of a new hindu new year." },
+    { "Word": "Christmas Day",  "Mean": "A festival where people puts their presents under a tree" },
+    { "Word": "Good Friday", "Mean": "A holiday that always falls on a Friday."},
+    { "Word": "Children's day", "Mean": "A holdiay for children" },
+    { "Word": "Thanksgiving", "Mean": "A holdiay where people celebrate the harverst and other blessings of the past year."},
+    { "Word": "Independance Day", "Mean": "A holiday to commemorate the declaration of independance of United States"},
+    { "Word": "Easter Day", "Mean": "A holiday with eggs and rabbits" }
+  ],
+  "country": [
+    { "Word": "Singapore", "Mean": "Our Home" },
+    { "Word": "Australia", "Mean": "A country located in Oceania. It is the largest country in Oceania and the world's sixth-largest country " },
+    { "Word": "China", "Mean": "It is the world's most populated country." },
+    { "Word": "United Kingdom", "Mean": "It is home to the capital 'London'." },
+    { "Word": "Sweden", "Mean": "Ikea's birthplace" },
+    { "Word": "Indonesia", "Mean": "It is located in East Asia. A country which consists of more than seventeen thousand islands" },
+    { "Word": "South Korea", "Mean": "A country located in East Asia, people over the world freak out over their celebrities." },
+    { "Word": "Russia", "Mean": "A country located in northen Asia, home to the capital of 'moscow'." },
+    { "Word": "Vietnam", "Mean": "A country located in South East Asia, known for its beaches, rivers and bustling cities" },
+    { "Word": "Canada", "Mean": "A country located in North America, where its flag has a leaf" },
+    { "Word": "Spain", "Mean": "A country located in Europe, where its capital is 'Madrid'." },
+    { "Word": "Philippines", "Mean": "A country located in Asia, whre its capital is 'Manila'." }
+  ],
+  "Essential Workers": [
+    { "Word": "Hawker", "Mean": "A person who sells food." },
+    { "Word": "Deliveryman", "Mean": "A person who brings packeges/food to your doorstep." },
+    { "Word": "Doctor", "Mean": "A person who treats your illness." },
+    { "Word": "Nurse", "Mean": "A person who takes care of patients" },
+    { "Word": "Garbage Collector", "Mean": "A person who collects garbage." },
+    { "Word": "Police Officer", "Mean": "A person who catches criminals." },
+    { "Word": "Fire Fighter", "Mean": "A person who fights fire." },
+    { "Word": "Cleaner", "Mean": "A person who maintains cleanliness of the place." },
+    { "Word": "Security gaurd", "Mean": "A person who monitors CCTV, permit entry, inspect buildings etc." },
+    { "Word": "Dentist", "Mean": "A person who specializes in dentistry." },
+    { "Word": "technician", "Mean": "A person who look after technical equipments." },
+    { "Word": "civil servant", "Mean": "A person who works for the government." }
+  ]
+}
